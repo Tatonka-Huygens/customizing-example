@@ -1,4 +1,4 @@
-function Intro1() {
+function Intro1(props) {
         return (
             <div className="blog-post-intro">
                 <h2>I've become a React developer!</h2>
